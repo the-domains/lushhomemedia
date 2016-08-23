@@ -6,9 +6,9 @@ color:
   saturation: 0.823821977712214
   rhythmicContrast: 0.4667573894839734
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: lushhomemedia
